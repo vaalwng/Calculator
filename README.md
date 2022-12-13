@@ -1,2 +1,2 @@
 # Calculator
-JAVA Calculator with JAVAFX
+simple java calculator using java swing and awt
